@@ -1,9 +1,0 @@
-id  | emp_phone_no | emp_designation    | emp_email         | emp_location | emp_name
---------------------------------------------------------------------------------------
-1   | 7654321098   | dba                | rahul@gmail.com   | Hyderabad    | Rahul
-2   | 1234567890   | Java Developer     | prajwal@gmail.com | Nagpur       | Prajwal
-3   | 1234567898   | Python Developer   | shyam@gmail.com   | Pune         | Shyam
-4   | 8765432109   | .net developer     | gopal@gmail.com   | Chennai      | Gopal
-5   | 6543210987   | Data Analyst       | aditya@gmail.com  | Mumbai       | Aditya
-6   | 5432109876   | Data Analyst       | neha@gmail.com    | Chennai      | Neha
-7   | 4321098765   | CA                 | shardul@gmail.com| Hyderabad    | Shardul
